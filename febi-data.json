@@ -8,20 +8,20 @@
       "email": "admin@febi.uinsi.ac.id"
     },
     {
+      "id": "2231811099",
+      "password": "henny123",
+      "role": "mahasiswa",
+      "nama": "Henny Tarima",
+      "email": "hennytaraima@gmail.com",
+      "registeredAt": "2026-02-01T23:36:18.506Z"
+    },
+    {
       "id": "197003101996031001",
       "password": "Is.z1970",
       "role": "dosen",
       "nama": "Dr. Iskandar, M. Ag.",
       "email": "abufirziazka@gmail.com",
-      "registeredAt": "2026-02-02T14:19:03.663Z"
-    },
-    {
-      "id": "2231811099",
-      "password": "123",
-      "role": "mahasiswa",
-      "nama": "Henny Tarima",
-      "email": "hennytaraima@gmail.com",
-      "registeredAt": "2026-02-02T14:20:54.933Z"
+      "registeredAt": "2026-02-01T23:45:03.203Z"
     }
   ],
   "mahasiswa": [
@@ -34,7 +34,7 @@
       "tahunMasuk": 2022,
       "pembimbing1": "",
       "pembimbing2": "",
-      "registeredAt": "2026-02-02T14:20:54.933Z"
+      "registeredAt": "2026-02-01T23:36:18.506Z"
     }
   ],
   "dosen": [
@@ -43,24 +43,78 @@
       "nama": "Dr. Iskandar, M. Ag.",
       "email": "abufirziazka@gmail.com",
       "wa": "081250955443",
-      "keahlian": "Tafsir al-Quran dan Hermeneutika Digital",
+      "keahlian": "Tafsir dan Hermeneutika Digital",
       "prodi": "Ekonomi Syariah",
-      "registeredAt": "2026-02-02T14:19:03.663Z"
+      "registeredAt": "2026-02-01T23:34:01.625Z"
+    },
+    {
+      "nip": "198003101996031001",
+      "nama": "YOVANDA",
+      "email": "yovanda@gmail.com",
+      "wa": "081234567890",
+      "keahlian": "Perbankan Islam",
+      "prodi": "Ekonomi Syariah",
+      "registeredAt": "2026-02-01T23:35:01.793Z"
+    },
+    {
+      "nip": "197003101996031001",
+      "nama": "Dr. Iskandar, M. Ag.",
+      "email": "abufirziazka@gmail.com",
+      "wa": "081250955443",
+      "keahlian": "Tafsir dan Hermeneutika Digital",
+      "prodi": "Ekonomi Syariah",
+      "registeredAt": "2026-02-01T23:45:03.203Z"
     }
   ],
   "proposals": [
     {
-      "id": "PROP1770042108131",
+      "id": "PROP1769989107297",
       "nim": "2231811099",
-      "judul": "Fintech dalam islam",
+      "judul": "Pengaruh fitur layanan digital dan kepercayaan terhadap kepuasan nasabah mobile banking BSI kota Samarinda",
       "pembimbing1": "Dr. Iskandar, M. Ag.",
-      "pembimbing2": "Dr. Iskandar, M. Ag.",
+      "pembimbing2": "YOVANDA",
       "similarityScore": 0,
       "status": "Diterima",
-      "createdAt": "2026-02-02T14:21:48.131Z"
+      "createdAt": "2026-02-01T23:38:27.297Z"
+    },
+    {
+      "id": "PROP1769989188871",
+      "nim": "2231811099",
+      "judul": "Peran Fintech dalam Pengembangan UMKM Kalimantan Timur ",
+      "pembimbing1": "Dr. Iskandar, M. Ag.",
+      "pembimbing2": "YOVANDA",
+      "similarityScore": 0,
+      "status": "Diterima",
+      "createdAt": "2026-02-01T23:39:48.871Z"
     }
   ],
-  "bimbingan": [],
+  "bimbingan": [
+    {
+      "id": "BIMB1769989210342",
+      "nim": "2231811099",
+      "judul": "Pengaruh fitur layanan digital dan kepercayaan terhadap kepuasan nasabah mobile banking BSI kota Samarinda",
+      "pembimbing1": "Dr. Iskandar, M. Ag.",
+      "pembimbing2": "YOVANDA",
+      "currentBab": "Bab 1",
+      "babProgress": {
+        "Bab 1": "Draft",
+        "Bab 2": "Draft",
+        "Bab 3": "Draft",
+        "Bab 4": "Draft",
+        "Bab 5": "Draft",
+        "Selesai": "Draft"
+      },
+      "komentar": [
+        {
+          "by": "Dr. Iskandar, M. Ag.",
+          "bab": "Bab 1",
+          "text": "Latar belakang dimunculkan signifikansi dan novelty nya",
+          "date": "2026-02-01T23:48:28.907Z"
+        }
+      ],
+      "createdAt": "2026-02-01T23:40:10.342Z"
+    }
+  ],
   "repository": [],
   "warnings": []
 }
