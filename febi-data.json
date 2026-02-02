@@ -6,10 +6,28 @@
       "role": "admin",
       "nama": "Administrator",
       "email": "admin@febi.uinsi.ac.id"
+    },
+    {
+      "id": "197003101996031001",
+      "password": "Is.z1970",
+      "role": "dosen",
+      "nama": "Dr. Iskandar, M. Ag.",
+      "email": "abufirziazka@gmail.com",
+      "registeredAt": "2026-02-02T14:19:03.663Z"
     }
   ],
   "mahasiswa": [],
-  "dosen": [],
+  "dosen": [
+    {
+      "nip": "197003101996031001",
+      "nama": "Dr. Iskandar, M. Ag.",
+      "email": "abufirziazka@gmail.com",
+      "wa": "081250955443",
+      "keahlian": "Tafsir al-Quran dan Hermeneutika Digital",
+      "prodi": "Ekonomi Syariah",
+      "registeredAt": "2026-02-02T14:19:03.663Z"
+    }
+  ],
   "proposals": [],
   "bimbingan": [],
   "repository": [],
