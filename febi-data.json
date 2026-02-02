@@ -48,7 +48,18 @@
       "registeredAt": "2026-02-02T14:19:03.663Z"
     }
   ],
-  "proposals": [],
+  "proposals": [
+    {
+      "id": "PROP1770042108131",
+      "nim": "2231811099",
+      "judul": "Fintech dalam islam",
+      "pembimbing1": "Dr. Iskandar, M. Ag.",
+      "pembimbing2": "Dr. Iskandar, M. Ag.",
+      "similarityScore": 0,
+      "status": "Diterima",
+      "createdAt": "2026-02-02T14:21:48.131Z"
+    }
+  ],
   "bimbingan": [],
   "repository": [],
   "warnings": []
