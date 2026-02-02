@@ -14,9 +14,29 @@
       "nama": "Dr. Iskandar, M. Ag.",
       "email": "abufirziazka@gmail.com",
       "registeredAt": "2026-02-02T14:19:03.663Z"
+    },
+    {
+      "id": "2231811099",
+      "password": "123",
+      "role": "mahasiswa",
+      "nama": "Henny Tarima",
+      "email": "hennytaraima@gmail.com",
+      "registeredAt": "2026-02-02T14:20:54.933Z"
     }
   ],
-  "mahasiswa": [],
+  "mahasiswa": [
+    {
+      "nim": "2231811099",
+      "nama": "Henny Tarima",
+      "email": "hennytaraima@gmail.com",
+      "wa": "081234567890",
+      "prodi": "Perbankan Syariah",
+      "tahunMasuk": 2022,
+      "pembimbing1": "",
+      "pembimbing2": "",
+      "registeredAt": "2026-02-02T14:20:54.933Z"
+    }
+  ],
   "dosen": [
     {
       "nip": "197003101996031001",
