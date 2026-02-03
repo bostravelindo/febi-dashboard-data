@@ -123,8 +123,14 @@
           ]
         },
         "Bab 2": {
-          "status": "Draft",
-          "komentar": []
+          "status": "Revisi",
+          "komentar": [
+            {
+              "author": "Administrator",
+              "text": "Tambah landasan teori yang sesuai",
+              "tanggal": "2026-02-03T07:23:14.607Z"
+            }
+          ]
         },
         "Bab 3": {
           "status": "Draft",
