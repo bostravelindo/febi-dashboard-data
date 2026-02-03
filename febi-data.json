@@ -134,7 +134,13 @@
         },
         "Bab 3": {
           "status": "Draft",
-          "komentar": []
+          "komentar": [
+            {
+              "author": "Dr. Iskandar, M. Ag.",
+              "text": "Perkuat metode penelitian dengan analisis yang tajam",
+              "tanggal": "2026-02-03T07:25:33.738Z"
+            }
+          ]
         },
         "Bab 4": {
           "status": "Draft",
