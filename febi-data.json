@@ -14,14 +14,6 @@
       "nama": "Henny Tarima",
       "email": "hennytaraima@gmail.com",
       "registeredAt": "2026-02-01T23:36:18.506Z"
-    },
-    {
-      "id": "197003101996031001",
-      "password": "Is.z1970",
-      "role": "dosen",
-      "nama": "Dr. Iskandar, M. Ag.",
-      "email": "abufirziazka@gmail.com",
-      "registeredAt": "2026-02-01T23:45:03.203Z"
     }
   ],
   "mahasiswa": [
@@ -39,15 +31,6 @@
   ],
   "dosen": [
     {
-      "nip": "197003101996031001",
-      "nama": "Dr. Iskandar, M. Ag.",
-      "email": "abufirziazka@gmail.com",
-      "wa": "081250955443",
-      "keahlian": "Tafsir dan Hermeneutika Digital",
-      "prodi": "Ekonomi Syariah",
-      "registeredAt": "2026-02-01T23:34:01.625Z"
-    },
-    {
       "nip": "198003101996031001",
       "nama": "YOVANDA",
       "email": "yovanda@gmail.com",
@@ -55,15 +38,6 @@
       "keahlian": "Perbankan Islam",
       "prodi": "Ekonomi Syariah",
       "registeredAt": "2026-02-01T23:35:01.793Z"
-    },
-    {
-      "nip": "197003101996031001",
-      "nama": "Dr. Iskandar, M. Ag.",
-      "email": "abufirziazka@gmail.com",
-      "wa": "081250955443",
-      "keahlian": "Tafsir dan Hermeneutika Digital",
-      "prodi": "Ekonomi Syariah",
-      "registeredAt": "2026-02-01T23:45:03.203Z"
     }
   ],
   "proposals": [
