@@ -113,6 +113,41 @@
         }
       ],
       "createdAt": "2026-02-01T23:40:10.342Z"
+    },
+    {
+      "id": "BIMB1770102671967",
+      "nim": "2231811099",
+      "judul": "Pengaruh fitur layanan digital dan kepercayaan terhadap kepuasan nasabah mobile banking BSI kota Samarinda",
+      "pembimbing1": "Dr. Iskandar, M. Ag.",
+      "pembimbing2": "YOVANDA",
+      "currentBab": "Bab 1",
+      "progress": {
+        "Bab 1": {
+          "status": "Draft",
+          "komentar": []
+        },
+        "Bab 2": {
+          "status": "Draft",
+          "komentar": []
+        },
+        "Bab 3": {
+          "status": "Draft",
+          "komentar": []
+        },
+        "Bab 4": {
+          "status": "Draft",
+          "komentar": []
+        },
+        "Bab 5": {
+          "status": "Draft",
+          "komentar": []
+        },
+        "Selesai": {
+          "status": "Draft",
+          "komentar": []
+        }
+      },
+      "tanggalMulai": "2026-02-03T07:11:11.967Z"
     }
   ],
   "repository": [],
