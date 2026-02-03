@@ -86,6 +86,16 @@
       "similarityScore": 0,
       "status": "Diterima",
       "createdAt": "2026-02-01T23:39:48.871Z"
+    },
+    {
+      "id": "PROP1770103056184",
+      "nim": "2231811099",
+      "judul": "Peranan UMKM dalam mensejahterakan rakyat kecil kota samarinda",
+      "pembimbing1": "Dr. Iskandar, M. Ag.",
+      "pembimbing2": "YOVANDA",
+      "similarity": 34,
+      "status": "Diterima",
+      "tanggal": "2026-02-03T07:17:36.184Z"
     }
   ],
   "bimbingan": [
