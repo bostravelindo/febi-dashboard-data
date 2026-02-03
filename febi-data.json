@@ -123,8 +123,14 @@
       "currentBab": "Bab 1",
       "progress": {
         "Bab 1": {
-          "status": "Draft",
-          "komentar": []
+          "status": "Revisi",
+          "komentar": [
+            {
+              "author": "Administrator",
+              "text": "tambah data dan analisis signifikansi dalam pendahuluan",
+              "tanggal": "2026-02-03T07:12:12.750Z"
+            }
+          ]
         },
         "Bab 2": {
           "status": "Draft",
